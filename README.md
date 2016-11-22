@@ -19,3 +19,4 @@ Then issue Pull request for review
 # Copyright
 
 gittraining
+All rights reserved
