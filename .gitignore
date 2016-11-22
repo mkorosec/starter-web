@@ -1,3 +1,4 @@
 .donottrack
 *.log
 log/
+*.orig
