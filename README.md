@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 Fork the repo
 
 ## Unstaged section
+
+# Copyright
+
+gittraining
