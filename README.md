@@ -10,6 +10,8 @@ Sample website with plenty of files for demos
 
 Fork the repo
 
+Then issue Pull request for review
+
 ## Unstaged section
 
 # Copyright
